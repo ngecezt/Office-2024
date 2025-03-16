@@ -3,11 +3,11 @@ Install &amp; Activate Microsoft Office LTSC Porfessional Plus 2024 &amp; Visio 
 <br>
 <br>
 -> Download office installer from : https://github.com/asheroto/Deploy-Office and then open it.<br>
-![install office pro plus 2024 volume edition](image.png) <br>
+![install office pro plus 2024 volume edition](Image.png) <br>
 -> Click Start &amp; wait for Installation to finish<br>
 <br>
 -> Open Office installer again and install Visio Pro<br>
-![install visio pro 2024 volume edition](image-1.png) <br>
+![install visio pro 2024 volume edition](Image-1.png) <br>
 -> Click Start &amp; wait for Installation to finish<br>
 <br>
 <br>
